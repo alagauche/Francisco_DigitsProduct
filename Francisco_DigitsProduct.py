@@ -1,7 +1,7 @@
 '''
 Name:           Francisco McGee
 Assignment:     DigitsProduct Assignment from Code Fights
-Github:         
+Github:         git remote add origin https://github.com/alagauche/Francisco_DigitsProduct.git
 
 Question Text:
 Given an integer product, find the smallest positive (i.e. greater than 0) 
